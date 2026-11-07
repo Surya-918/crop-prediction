@@ -1,0 +1,6 @@
+tensorflow>=2.15,<3
+numpy>=1.23.5,<2
+Pillow>=9.0
+streamlit>=1.30
+groq>=0.9
+python-dotenv>=1.0
